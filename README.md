@@ -11,9 +11,12 @@ The input images are as following:
      <img src="docs/112_1300.JPG" width="33%" height="33%">
 </p>
 
-<p align="left">
+<p align="center">
      <img src="docs/113_1301.JPG" width="33%" height="33%">
      <img src="docs/113_1302.JPG" width="33%" height="33%">
      <img src="docs/113_1303.JPG" width="33%" height="33%">
-     <br>Fig.1 Input Images
+     <br>Fig.1 Inputs Images
+
 </p>
+
+Feature points detecting and matching resut is as figure 2. 
