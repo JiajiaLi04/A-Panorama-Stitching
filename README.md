@@ -12,8 +12,8 @@ The input images are as following:
 </p>
 
 <p align="left">
-     <img src="docs/112_1301.JPG" width="33%" height="33%">
-     <img src="docs/112_1302.JPG" width="33%" height="33%">
-     <img src="docs/112_1303.JPG" width="33%" height="33%">
-     <br>Fig.2 Input Images
+     <img src="docs/113_1301.JPG" width="33%" height="33%">
+     <img src="docs/113_1302.JPG" width="33%" height="33%">
+     <img src="docs/113_1303.JPG" width="33%" height="33%">
+     <br>Fig.1 Input Images
 </p>
