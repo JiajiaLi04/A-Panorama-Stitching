@@ -16,7 +16,18 @@ The input images are as following:
      <img src="docs/113_1302.JPG" width="33%" height="33%">
      <img src="docs/113_1303.JPG" width="33%" height="33%">
      <br>Fig.1 Inputs Images
-
 </p>
 
 Feature points detecting and matching resut is as figure 2. 
+
+<p align="center">
+     <img src="docs/output2.JPG" width="80%" height="80%">
+     <br>Fig.2 Feature Points Detecting and Matching
+</p>
+
+The result of stitching is a panorama as figure 3.
+
+<p align="center">
+     <img src="docs/sift1.JPG" width="90%" height="90%">
+     <br>Fig.3 Feature Points Detecting and Matching
+</p>
