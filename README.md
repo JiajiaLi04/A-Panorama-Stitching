@@ -18,7 +18,7 @@ The input images are as following:
      <br>Fig.1 Inputs Images
 </p>
 
-Feature points detecting and matching resut is as figure 2. 
+Feature points detecting and matching result is like figure 2. 
 
 <p align="center">
      <img src="docs/output2.jpg" width="80%" height="80%">
